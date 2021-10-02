@@ -1,3 +1,6 @@
+//LEMBRAR SEMPRE DO ;
+
+
 /*
 var lista = [nome: “rosa” , “cravo” , “tulipa”, “margarida”]
 console.log(lista[2]);
